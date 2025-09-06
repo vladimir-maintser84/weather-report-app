@@ -1,7 +1,7 @@
 # Weather Report Application 🌤️
 --------
 
-Beginner CLI weather report app on Java that fetches the wether information from OpenWeatherMap API
+Beginner CLI weather report app on Java that fetches the weather information from OpenWeatherMap API, built as a learning project
 
 ## Stack/Tools: 
 
