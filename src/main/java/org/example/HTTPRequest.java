@@ -2,7 +2,7 @@
     @author: Vladimir Maintser
     @date: 06.09.2025
     HTTPRequest class that request OpenWeatherMap API and get info
-    about weather in user city and user metric
+    about weather in user city and user metric.
  */
 
 

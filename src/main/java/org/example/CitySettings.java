@@ -2,7 +2,7 @@
     @author: Vladimir Maintser
     @date: 06.09.2025
     CitySettings class that allow the program to define city, units and apiKey
-    and add further implementation to Main and HTTPRequest classes
+    and add further implementation to Main and HTTPRequest classes.
  */
 
 

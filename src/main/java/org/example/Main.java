@@ -2,7 +2,7 @@
     @author: Vladimir Maintser
     @date: 06.09.2025
     This is the main method of the weather report program
-    that has CitySettings and HTTPRequest methods implementation
+    that has CitySettings and HTTPRequest methods implementation.
  */
 
 
